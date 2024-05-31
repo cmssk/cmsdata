@@ -1,14 +1,6 @@
 {
   "register": [
     {
-      "name": "Rohit",
-      "email": "rohitsali@gamil.com",
-      "phone": 789489,
-      "role": "2",
-      "password": "asdfsaf",
-      "id": "4"
-    },
-    {
       "name": "Akshay",
       "email": "akshay@gmail.com",
       "phone": 1234567897,
